@@ -13,3 +13,4 @@
 - - Raspberry PIs
 - - Arduinos
 - - Pentium II
+- Nonsense async functions that normal players won't even notice and give a shit!
