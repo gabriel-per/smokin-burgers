@@ -14,3 +14,7 @@
 - - Arduinos
 - - Pentium II
 - Nonsense async functions that normal players won't even notice and give a shit!
+
+## Special Thanks
+very inspirational
+![oco](https://github.com/GabrielSil46/smokin-burgers/blob/main/Chico_bioca_ocolast.jpg)
