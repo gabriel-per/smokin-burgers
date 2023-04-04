@@ -14,6 +14,7 @@
 - - Arduinos
 - - Pentium II
 - Nonsense async functions that normal players won't even notice and give a shit!
+- 689 LINES OF PURE LOGIC!!!!!!!!!!!!!!!
 
 ## Special Thanks
 very inspirational
