@@ -1,4 +1,4 @@
-![a](https://github.com/GabrielSil46/smokin-burgers/blob/main/image.png)
+![a]((https://github.com/GabrielSil46/smokin-burgers/blob/main/repo_imgs/banner.png)
 # Smokin' Burgers
 ## 2nd best game in the universe (second only to Ocolast)
 
@@ -18,4 +18,4 @@
 
 ## Special Thanks
 very inspirational
-![oco](https://github.com/GabrielSil46/smokin-burgers/blob/main/Chico_bioca_ocolast.jpg)
+![oco]([https://github.com/GabrielSil46/smokin-burgers/blob/main/Chico_bioca_ocolast.jpg](https://github.com/GabrielSil46/smokin-burgers/blob/main/repo_imgs/Chico_bioca_ocolast.jpg))
