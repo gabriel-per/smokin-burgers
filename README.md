@@ -4,7 +4,9 @@
 
 ### How to play
 Download the mainv1.7.2_01.py file (trojan-free; certified by Pussy Destroyer Antivirus)
+
 you should know the rest if you managed to find this repo; playing instructions included in the software
+
 also, you can check out the older (basically unplayable) versions if you care for some reason
 
 ### Reasons why you should play Smokin' Burgers
