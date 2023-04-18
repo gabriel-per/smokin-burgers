@@ -23,7 +23,7 @@ also, you can check out the older (basically unplayable) versions if you care fo
 - Nonsense async functions that normal players won't even notice and give a shit!
 - 689 LINES OF PURE LOGIC!!!!!!!!!!!!!!!
 
-### Known bugs we don't care enough to fix now that we found them
+### Known bugs we don't care enough to fix
 - Null inputs cause fatal error and makes the code blurt out the entire fucking call stack! (we are not responsible for any subsequent terminal crashing that may derive)
 - that's it really, this game is just perfect
 
