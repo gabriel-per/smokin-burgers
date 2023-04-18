@@ -1,0 +1,24 @@
+  __  __ _      __  __           _     
+ |  \/  (_)    |  \/  |         | | 2023 --> esqueci de mudar o ano no outro leia_me xd
+ | \  / |___  _| \  / | ___   __| |___ 
+ | |\/| | \ \/ / |\/| |/ _ \ / _` / __|
+ | |  | | |>  <| |  | | (_) | (_| \__ \
+ |_|  |_|_/_/\_\_|  |_|\___/ \__,_|___/
+                                       
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+14/01/2023, sábado
+mainv1.6_nocomment.py
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+changelog:
+- todos os erros de lógica consertados (até onde sei :pensive:)
+- cores e formatações gráficas novas adicionadas (ainda faltando pra algumas partes
+(notavelmente, o display do hambúrguer na build station ainda ta informatada))
+- o estado atual do código agora é equivalente ao de um tolete de bosta espalhado 
+por uma parede
+- removed Herobrine
+
+o que falta:
+- adicionar sfx
+- finalizar formatação gráfica e cores
+- finalizar fórmula para final_stats

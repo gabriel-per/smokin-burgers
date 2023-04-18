@@ -1,0 +1,34 @@
+  __  __ _      __  __           _     
+ |  \/  (_)    |  \/  |         | | 2022
+ | \  / |___  _| \  / | ___   __| |___ 
+ | |\/| | \ \/ / |\/| |/ _ \ / _` / __|
+ | |  | | |>  <| |  | | (_) | (_| \__ \
+ |_|  |_|_/_/\_\_|  |_|\___/ \__,_|___/
+                                       
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+14/01/2023, sábado
+mainv1.5.0_nocomment.py
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+o jogo está quase (quase!) estável!!!!!!!! fiz alguns bug fixes mas ainda
+tá cheio de bug, 14/01 de noite edito dnv
+
+se quiser editar algo, sinta-se livre :thumbsup:
+
+changelog:
+- bug fixes para as features em geral (várias pequenas correções cumulativas, basicamente)
+- mais variáveis globais (trágico...)
+- avisos de chegada de cliente e "DAY OVER!" agora são classificados como
+notificação e não são mais printados enquanto o programa está esperando inputs
+- removed Herobrine
+
+------- ADENDO — 14/01/2023, 15:15 ----------
+basicamente, agora só falta ajeitar a função rateBurger(), dar
+uma organizada geral no estilo (adicionar cores, time.sleep(), ascii art, etc.) e
+adicionar o sfx.
+
+depois de testar um pouco, não achei bugs (de quebrar o jogo) fora de rateBurger(). eba?
+
+também tenho a intenção de adicionar um sistema de relógio usando a variável global
+ingameTime dps
+---------------------------------------------
