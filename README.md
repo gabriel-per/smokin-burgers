@@ -32,6 +32,7 @@ Schoolwork.
 
 ## Special Thanks
 very inspirational
+
 ![oco](https://github.com/GabrielSil46/smokin-burgers/blob/main/repo_imgs/Chico_bioca_ocolast.jpg)
 
 ## Legal disclaimer
