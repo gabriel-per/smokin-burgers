@@ -3,7 +3,7 @@
 ## 2nd best game in the universe (second only to Ocolast)
 
 ### How to play
-Download the mainv1.7.2_01.py file (trojan-free! (as certified by Norton Antivirus))
+Download the mainv1.7.2_01.py file (trojan-free!)
 
 you should know the rest if you managed to find this repo; playing instructions included in the software
 
